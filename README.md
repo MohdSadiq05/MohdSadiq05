@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Data%20Analyst&fontSize=70" width="100%" />
+  <img src="https://cdn.vectorstock.com/i/1000v/54/87/man-data-analyst-stylized-cartoon-concept-vector-50845487.jpg&color=auto&height=200&section=header&text=Data%20Analyst&fontSize=70" width="100%" />
 </p>
 
 <img align ="right" alt ="Coding" width ="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
