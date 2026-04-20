@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://cdn.vectorstock.com/i/1000v/54/87/man-data-analyst-stylized-cartoon-concept-vector-50845487.jpg" width="600" alt="Data Analyst Banner">
+  <img src="https://cdn.vectorstock.com/i/1000v/54/87/man-data-analyst-stylized-cartoon-concept-vector-50845487.jpg" width="400" alt="Data Analyst Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohd Sadiq</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mohdsadiq05&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsadiq05" /> 
